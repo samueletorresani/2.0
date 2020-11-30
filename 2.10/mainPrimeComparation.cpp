@@ -2,7 +2,7 @@
     Comparing optimized version with old prime method
 */
 
-#include "prime.h"
+#include "prime.hpp"
 #include <iostream>
 #include <chrono>
 
